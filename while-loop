@@ -1,0 +1,7 @@
+# Program to print number fron 0 to 9 using while loop
+
+number = 0
+while number<10:
+  print(number)
+  number= number+1  
+  
