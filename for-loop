@@ -1,0 +1,4 @@
+# Program to print number from 0 to 9  using for loop 
+
+for number in range(10):
+  print(number)
